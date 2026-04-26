@@ -23,24 +23,22 @@ Strong hands-on background with the **Microsoft Security ecosystem** — from la
 
 ## Core expertise
 
-```
-DFIR & Threat Intelligence          Microsoft Security Ecosystem
-────────────────────────────        ────────────────────────────
-Digital Forensics & IR              Microsoft Sentinel (SIEM/SOAR)
-Threat Hunting (KQL)                Defender for Endpoint/Identity
-Detection Engineering               Defender for Cloud Apps/Office
-MITRE ATT&CK | NIST                 Microsoft Entra ID | Intune
-Cyber Threat Intelligence           Purview | Intune
-Velociraptor | Eric Zimmerman       CrowdStrike Falcon
+| DFIR & Threat Intelligence | Microsoft Security Ecosystem |
+|---|---|
+| Digital Forensics & IR | Microsoft Sentinel (SIEM/SOAR) |
+| Threat Hunting (KQL) | Defender for Endpoint/Identity |
+| Detection Engineering | Defender for Cloud Apps/Office |
+| MITRE ATT&CK · NIST | Microsoft Entra ID · Intune |
+| Cyber Threat Intelligence | Purview · CrowdStrike Falcon |
+| Velociraptor · Eric Zimmerman Tools | EDR · SIEM & Log Analytics |
 
-Security Governance                 Infrastructure & OT
-────────────────────────────        ────────────────────────────
-Zero Trust Architecture             OT/ICS Security (Purdue Model)
-Security Strategy & Policy          Nozomi | EDR
-IAM | PAM | DLP                     Critical Infrastructure
-Compliance & Risk Management        Industrial Plant Security
-SOC Operations                      M&A Security Assessments
-```
+| Security Governance | Infrastructure & OT |
+|---|---|
+| Zero Trust Architecture | OT/ICS Security (Purdue Model) |
+| Security Strategy & Policy | Nozomi · EDR |
+| IAM · PAM · DLP | Critical Infrastructure |
+| Compliance & Risk Management | Industrial Plant Security |
+| SOC Operations | M&A Security Assessments |
 
 ---
 
