@@ -6,7 +6,7 @@
 *Building resilient security programs. Turning adversary intelligence into decisive action.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sandro--jose-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandro-jose/)
-[![Location](https://img.shields.io/badge/Brazil-🇧🇷-009C3B?style=flat-square)]()
+[![Location](https://img.shields.io/badge/Canada-🇨🇦-FF0000?style=flat-square)]()
 [![CISSP](https://img.shields.io/badge/CISSP-2025-005A8E?style=flat-square&logo=isc2&logoColor=white)]()
 
 </div>
